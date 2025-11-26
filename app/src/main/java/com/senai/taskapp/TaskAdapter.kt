@@ -1,4 +1,4 @@
-package com.senai.taskapp.ui.adapter
+package com.senai.taskapp
 
 import android.graphics.Paint
 import android.view.LayoutInflater
@@ -10,7 +10,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.senai.taskapp.R
 import com.senai.taskapp.data.TaskEntity
 
 // Recebe funções lambda para comunicar os eventos de clique para a Activity/ViewModel [cite: 1675, 2169]

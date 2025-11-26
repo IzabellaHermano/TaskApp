@@ -6,7 +6,6 @@ import android.widget.EditText
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import com.senai.taskapp.ui.adapter.TaskAdapter
 import com.senai.taskapp.viewmodel.TaskViewModel
 import com.senai.taskapp.viewmodel.TaskViewModelFactory
 
